@@ -6,4 +6,5 @@ Script 4 is displaying the last 10 lines
 Script 5 This script shows the first 10 lines
 Script 6 displays the third line of the file iact
 Script 7 creates the fie requested exactl
-Script 8 writes contents into a file 
+Script 8 writes contents into a file
+Script 9 duplicates last line of iacta 
